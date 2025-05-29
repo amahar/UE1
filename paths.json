@@ -1,5 +1,10 @@
 {
   "mappings": [
     "/content/ue1/:/",
+    "/content/ue1:/.helix/config.json",
+    "/content/ue1/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/ue1/"
   ]
 }
